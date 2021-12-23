@@ -16,7 +16,7 @@ CSS Houdini library.
 
 <script src="https://unpkg.com/css-paint-polyfill"></script>
 <script>
-    CSS.paintWorklet.addModule("https://unpkg.com/houdini-stamp-border.js")
+    CSS.paintWorklet.addModule("https://unpkg.com/houdini-stamp-border")
 </script>
 ```
 
